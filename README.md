@@ -2,6 +2,11 @@
 
 A simple React app to search for images and GIFs, built to practice **Redux Toolkit**.
 
+## Links
+
+### Github Repos: https://github.com/Swapnil-Mhatre/media-vault-redux/
+### Live Links: https://media-vault-redux.vercel.app/
+
 ## Features
 
 - Search for images or GIFs by keyword
